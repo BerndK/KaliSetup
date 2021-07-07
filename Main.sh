@@ -24,5 +24,8 @@ passwd
 # Install some apps
 ./InstallApps.sh
 
+# Wifite addons
+./WifiteTools.sh
+
 # install openvas
 ./InstallOpenVAS.sh
