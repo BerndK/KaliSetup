@@ -1,5 +1,9 @@
 #!/bin/sh
 
+echo "#########################################"
+echo "# OpenVAS                               #"
+echo "#########################################"
+
 sudo apt update
 sudo apt install openvas -y
 

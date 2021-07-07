@@ -1,5 +1,10 @@
 #!/bin/sh
 
+echo "#########################################"
+echo "# Installing Apps...                    #"
+echo "#########################################"
+
+
 # installs applications:
 # searchmonkey      - searchtool
 # bleachbit         - cleanup tool

@@ -2,6 +2,8 @@
 
 # set keyboard layout to 'de'
 cp keyboard-layout.xml ~/.config/xfce4/xfconf/xfce-perchannel-xml
+# also set for current session
+setxkbmap de
 
 #setup auto login
 sudo ./AutoLogin.sh
