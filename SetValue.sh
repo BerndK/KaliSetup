@@ -1,3 +1,5 @@
+#!/bin/sh
+
 echo "setting $2=$3 in file: $1"
 if [ $# -ne 3 ]
 then
