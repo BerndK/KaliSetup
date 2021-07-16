@@ -31,3 +31,7 @@ passwd
 
 # install openvas
 ./InstallOpenVAS.sh
+
+# Mount Shared Folders
+# use 'mount-shared-folders'
+./SharedFolders.sh
