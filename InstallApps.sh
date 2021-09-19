@@ -13,8 +13,9 @@ echo "#########################################"
 # armitage          - metasploit GUI
 # hardinfo          - Hardware Information Tool
 # kali-tools-802-11 - Kali WiFi Tools
+# tilix             - Multi terminal
 sudo apt update
-sudo apt install searchmonkey bleachbit duc ksysguard armitage hardinfo kali-tools-802-11 -y
+sudo apt install searchmonkey bleachbit duc ksysguard armitage hardinfo kali-tools-802-11 tilix -y
 
 # Remove invalid exploit (to not break armitage):
 sudo mv /usr/share/metasploit-framework/modules/exploits/linux/misc/saltstack_salt_unauth_rce.rb /usr/share/metasploit-framework/modules/exploits/linux/misc/saltstack_salt_unauth_rce.rb.bkp
