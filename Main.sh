@@ -35,3 +35,6 @@ passwd
 # Mount Shared Folders
 # use 'mount-shared-folders'
 ./SharedFolders.sh
+
+# RubberDucky
+./RubberDucky.sh
