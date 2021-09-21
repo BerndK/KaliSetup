@@ -38,3 +38,6 @@ passwd
 
 # RubberDucky
 ./RubberDucky.sh
+
+# SSH
+./SSH.sh
