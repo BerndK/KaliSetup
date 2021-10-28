@@ -1,0 +1,7 @@
+#!/bin/sh
+
+sudo xrandr --newmode "3840x2400_60.00"  793.77  3840 4160 4584 5328  2400 2401 2404 2483  -HSync +Vsync
+sudo xrandr --addmode Virtual1 "3840x2400_60.00"
+
+sudo xrandr --newmode "3840x2160_60.00"  712.34  3840 4152 4576 5312  2160 2161 2164 2235  -HSync +Vsync
+sudo xrandr --addmode Virtual1 "3840x2160_60.00"

@@ -41,3 +41,8 @@ passwd
 
 # SSH
 ./SSH.sh
+
+# Screen resulutions
+./AddResolutions
+#cp ./AddResolutions ~/Desktop
+cp ./AddResolutions.desktop ~/.config/autostart/
