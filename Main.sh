@@ -21,7 +21,7 @@ passwd
 ./InstallVSCode.sh
 
 # Update Kali
-./SystemUpgrade.sh
+#./SystemUpgrade.sh
 
 # Install some apps
 ./InstallApps.sh
@@ -30,19 +30,19 @@ passwd
 ./WifiteTools.sh
 
 # install openvas
-./InstallOpenVAS.sh
+#./InstallOpenVAS.sh
 
 # Mount Shared Folders
 # use 'mount-shared-folders'
 ./SharedFolders.sh
 
 # RubberDucky
-./RubberDucky.sh
+#./RubberDucky.sh
 
 # SSH
 ./SSH.sh
 
 # Screen resulutions
-./AddResolutions
+#./AddResolutions
 #cp ./AddResolutions ~/Desktop
-cp ./AddResolutions.desktop ~/.config/autostart/
+#cp ./AddResolutions.desktop ~/.config/autostart/
