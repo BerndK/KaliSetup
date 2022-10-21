@@ -12,7 +12,7 @@ sudo ./AutoLogin.sh
 ./SudoNoPassword.sh
 
 # change password
-passwd
+# passwd
 
 # set Timezone
 ./SetTimeZone.sh
